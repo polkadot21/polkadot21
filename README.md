@@ -4,7 +4,7 @@ I am a senior python dev/machine learning eng. That's probably the most importan
 
 ## In my free time...
 
-In my free time, I usually do some external projects, mostly unicorn start-ups that go insolvent before have made me wealthy.
+In my free time, I usually do some external projects, mostly unicorn start-ups that go insolvent before making me wealthy.
 
 
 ## I'd like to learn...
