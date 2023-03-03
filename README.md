@@ -1,18 +1,11 @@
-# Nice to meet you here, sir or madam
+Yo, What's Up! I'm Evgenii Saurov 🤘🏽
+I'm a tech junkie who lives and breathes innovation. With a passion for cutting-edge technologies and products, I'm always on the lookout for the next big thing that will take the world by storm.
 
-I am a senior python dev/machine learning eng. That's probably the most important thing you must know if you're skimming through my Github. On top of this, I am a huge advocate of open-source who scarcely develops open-source projects, a data scientist who hates writing code in Jupyter notebooks (but not for visualization), and a hater of Python programming language because of GIL, recursive tail optimization, and whitespaces who internally really loves writing code in Python.
+🚀 My Mission
+I bring an unrelenting drive and fearless approach to my work. I'm not content with the status quo - I'm here to challenge conventional thinking, smash through barriers, and unleash the full potential of machine learning to solve complex problems and deliver results.
 
-## In my free time...
+🤝 Collaboration Status
+Currently, I am closed for new project proposals, but I welcome collaborators on existing projects. If you have an interest in contributing to any of my ongoing work, please feel free to get in touch. I value teamwork and look forward to working together to make something great.
 
-In my free time, I usually do some external projects, mostly unicorn start-ups that go insolvent before making me wealthy.
-
-
-## I'd like to learn...
-
-I am currently learning solidity. If you have some trustworthy sources, please, let me know.
-
-## I'm interested in...
-I am keen on doing sports, namely, swimming and freediving. 
-
-## How to reach me...
-saurov.ev@gmail.com
+🎸 Let's Rock and Roll
+So let's rock and roll! If you want to learn more about my work or stay updated on future collaborations, feel free to connect with me at saurov.ev@gmail.com. Thanks for stopping by! 🎸🔥
