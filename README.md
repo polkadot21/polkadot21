@@ -1,4 +1,4 @@
-#Yo, What's Up! I'm Evgenii Saurov 🤘🏽
+# Yo, What's Up! I'm Evgenii Saurov 🤘🏽
 
 I'm a tech junkie who lives and breathes innovation. With a passion for cutting-edge technologies and products, I'm always on the lookout for the next big thing that will take the world by storm.
 
